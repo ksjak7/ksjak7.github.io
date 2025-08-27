@@ -19,6 +19,7 @@ body {
     font-size: 12px;
     background: var(--background);
     color: var(--text-primary);
+    transform: scale(1.4, 1.4);
 
     display: flex;
     flex-direction: column;
